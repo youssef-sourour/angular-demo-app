@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Useful commands and links
 
-To create a compoenent `ng g c components/includes/header --spec false`
-To create a module named components `ng g m components`
-To install Prettier `npm install --save-dev husky pretty-quick prettier`
-To use npm run script `npm run ng -- --version`
+* To create a compoenent `ng g c components/includes/header --spec false`
+* To create a module named components `ng g m components`
+* To install Prettier `npm install --save-dev husky pretty-quick prettier`
+* To use npm run script `npm run ng -- --version`
 https://docs.npmjs.com/cli/run-script
